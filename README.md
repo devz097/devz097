@@ -39,6 +39,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-4FC08D.svg)
 ![Expo](https://img.shields.io/badge/-Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
 - Tools: 
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
