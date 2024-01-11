@@ -51,4 +51,4 @@
 ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-FF9900?style=flat-square&logo=amazonrds&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=blue-green)
+![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devz097&theme=blue-green)
